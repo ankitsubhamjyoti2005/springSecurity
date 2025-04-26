@@ -10,4 +10,6 @@ public class SecurityApplication {
 		SpringApplication.run(SecurityApplication.class, args);
 	}
 
+	public static class ContentController {
+	}
 }
